@@ -12,7 +12,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Realizado o projeto da NLW Expert da Rocketseat
 
-- [Acesse o projeto finalizado](https://fronzinha.github.io/NLW-EXPERT-HTML.CSS.JSFronza/)
+- [Acesse o projeto finalizado](https://fronzinha.github.io/NLW-EXPERT-Fronza/)
 
 ## 🔖 Melhorias
 
